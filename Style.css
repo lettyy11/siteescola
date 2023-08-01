@@ -18,3 +18,10 @@ body {
     margin-right: 10cm;
     
 }
+
+.item {
+    margin-top: 30px; /* Espaço superior de 10 pixels */
+    margin-bottom: 30px; /* Espaço superior de 10 pixels */
+    width: 300px;
+}
+
